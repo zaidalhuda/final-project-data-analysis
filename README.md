@@ -18,9 +18,9 @@
 
 Welcome to **Data Analysis for Final Project** - a complete learning repository designed to help students and beginners **understand, prepare, and analyze data** for their final projects across different data types.
 
-Whether you’re dealing with simple **tabular datasets**, working on **image classification**, or exploring **video-based object detection**, this repository will guide you through the entire process — from raw data understanding to clear, insightful analysis and visualization.
+Whether you’re dealing with simple **tabular datasets**, working on **image classification**, or exploring **video-based object detection**, this repository will guide you through the entire process - from raw data understanding to clear, insightful analysis and visualization.
 
-It follows a **structured and practical learning approach**, inspired by the **CRISP-DM (Cross Industry Standard Process for Data Mining)** framework — focusing especially on the *Data Understanding* and *Data Preparation* stages.
+It follows a **structured and practical learning approach**, inspired by the **CRISP-DM (Cross Industry Standard Process for Data Mining)** framework - focusing especially on the *Data Understanding* and *Data Preparation* stages.
 
 ---
 
