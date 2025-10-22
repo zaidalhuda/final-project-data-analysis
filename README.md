@@ -16,7 +16,7 @@
 
 ##  Overview
 
-Welcome to **Data Analysis for Final Project** — a complete learning repository designed to help students and beginners **understand, prepare, and analyze data** for their final projects across different data types.
+Welcome to **Data Analysis for Final Project** - a complete learning repository designed to help students and beginners **understand, prepare, and analyze data** for their final projects across different data types.
 
 Whether you’re dealing with simple **tabular datasets**, working on **image classification**, or exploring **video-based object detection**, this repository will guide you through the entire process — from raw data understanding to clear, insightful analysis and visualization.
 
@@ -42,13 +42,13 @@ Through the notebooks in this repository, you will learn how to:
 
 This repository provides **step-by-step roadmaps** and **ready-to-run example notebooks** for each data type used in your projects:
 
-- 🟢 **Raw Data (Tabular)** – typical Excel or CSV datasets for machine learning tasks.  
-- 🟦 **Image Data (Classification)** – tasks where the goal is to identify what’s in an image.  
-- 🟣 **Video Data (Object Detection)** – tasks focused on identifying and tracking objects in motion.
+- 🟢 **Raw Data (Tabular)** - typical Excel or CSV datasets for machine learning tasks.  
+- 🟦 **Image Data (Classification)** - tasks where the goal is to identify what’s in an image.  
+- 🟣 **Video Data (Object Detection)** - tasks focused on identifying and tracking objects in motion.
 
 Each category includes:
-- **A Roadmap Notebook** – explaining the general workflow and structure to follow.  
-- **An Example Notebook** – demonstrating real data analysis with detailed explanations, visualizations, and insights.  
+- **A Roadmap Notebook** - explaining the general workflow and structure to follow.  
+- **An Example Notebook** - demonstrating real data analysis with detailed explanations, visualizations, and insights.  
 
 ---
 
@@ -83,7 +83,7 @@ Each category includes:
 
 ## Why This Repository?
 
-Many students struggle not with coding, but with *structuring* their analysis — knowing **what to do next** or **how to interpret results**.  
+Many students struggle not with coding, but with *structuring* their analysis - knowing **what to do next** or **how to interpret results**.  
 This repository was created to solve that problem.
 
 By using these notebooks, you’ll learn:
@@ -95,12 +95,12 @@ By using these notebooks, you’ll learn:
 
 ##  Recommended Use
 
-1. **Start with the Roadmap Notebook** — understand the structure and logic of data analysis.  
-2. **Move to the Example Notebook** — run, modify, and experiment with the provided dataset.  
+1. **Start with the Roadmap Notebook** - understand the structure and logic of data analysis.  
+2. **Move to the Example Notebook** - run, modify, and experiment with the provided dataset.  
 3. **Apply the same structure** to your own project dataset.  
 4. **Document insights and findings** after every major step (EDA, cleaning, preprocessing, etc.).  
 
 ---
 
-This project aims to make **data analysis clear, structured, and practical**, empowering you to manage and analyze your data confidently and professionally — just like in real-world data science projects.
+This project aims to make **data analysis clear, structured, and practical**, empowering you to manage and analyze your data confidently and professionally - just like in real-world data science projects.
  
