@@ -22,7 +22,7 @@ Whether you’re dealing with simple **tabular datasets**, working on **image-ba
 
 It follows a **structured and practical learning approach**, inspired by the **CRISP-DM (Cross Industry Standard Process for Data Mining)** framework - focusing especially on the *Data Understanding* and *Data Preparation* stages.
 
-> *"Master data analysis through hands-on practice and real-world project applications" – Build your expertise step-by-step with practical notebooks and clear explanations.
+> *"Master data analysis through hands-on practice and real-world project applications" – Build your expertise step-by-step with practical notebooks and clear explanations."*
 
 **By Dr. Zaid Al-Huda**
 
