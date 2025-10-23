@@ -59,7 +59,7 @@ Each category includes:
 | Notebook | Description | Open in Colab |
 |----------|-------------|----------------|
 | [Raw Data Analysis Roadmap](notebooks/Raw_Data_Analysis_Roadmap.ipynb) | General workflow for analyzing raw/tabular data. | <a href="https://colab.research.google.com/drive/1eEXuZXoP1Cd0Si8j7p6-5pV5ey0sNeWP#scrollTo=1b72d0a6" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
-| [Raw Data Example: Heart Disease Classification](notebooks/Raw_Data_Analysis_Example(Heart_Disease_Classification).ipynb) | Full example using a health dataset for classification. | <a href="https://colab.research.google.com/github/your-username/Data-Analysis-Final-Project/blob/main/Raw_Data_Analysis_Example(Heart_Disease_Classification).ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
+| [Raw Data Example: Heart Disease Classification](notebooks/Raw_Data_Analysis_Example(Heart_Disease_Classification).ipynb) | Full example using a health dataset for classification. | <a href="https://colab.research.google.com/drive/1P9h80au8nSofGPYbflewbqETznRduqMA" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
 
 ---
 
@@ -67,8 +67,8 @@ Each category includes:
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|----------------|
-| [Image Data Analysis Roadmap](notebooks/Image_Data_Analysis_Roadmap.ipynb) | Workflow for handling image datasets and models. | <a href="https://colab.research.google.com/github/your-username/Data-Analysis-Final-Project/blob/main/Image_Data_Analysis_Roadmap.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
-| [Image Analysis Example: Image Classification](notebooks/Image_Analysis_Example(Image_Classification).ipynb) | Practical example of image classification with CNNs + Grad-CAM. | <a href="https://colab.research.google.com/github/your-username/Data-Analysis-Final-Project/blob/main/Image_Analysis_Example(Image_Classification).ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
+| [Image Data Analysis Roadmap](notebooks/Image_Data_Analysis_Roadmap.ipynb) | Workflow for handling image datasets and models. | <a href="https://colab.research.google.com/drive/1f6ivc1j9dBoM3Keh-6dGLv_LxEl_fBAS" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
+| [Image Analysis Example: Image Classification](notebooks/Image_Analysis_Example(Image_Classification).ipynb) | Practical example of image classification with CNNs + Grad-CAM. | <a href="https://colab.research.google.com/drive/1Raps82nMYPtX6SqzA5pJ5r9Pw7UlAYNW" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
 
 ---
 
@@ -76,8 +76,8 @@ Each category includes:
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|----------------|
-| [Video Data Analysis Roadmap](notebooks/Video_Data_Analysis_Roadmap.ipynb) | Workflow for preparing and analyzing video datasets. | <a href="https://colab.research.google.com/github/your-username/Data-Analysis-Final-Project/blob/main/Video_Data_Analysis_Roadmap.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
-| [Video Analysis Example: Object Detection](notebooks/Video_Data_Analysis_Example(Object_Detection).ipynb) | Example of object detection in videos using deep learning. | <a href="https://colab.research.google.com/github/your-username/Data-Analysis-Final-Project/blob/main/Video_Data_Analysis_Example(Object_Detection).ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
+| [Video Data Analysis Roadmap](notebooks/Video_Data_Analysis_Roadmap.ipynb) | Workflow for preparing and analyzing video datasets. | <a href="https://colab.research.google.com/drive/1n-c2CdBoSvJJx-7ec0viwKlQPT_TRElZ" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
+| [Video Analysis Example: Object Detection](notebooks/Video_Data_Analysis_Example(Object_Detection).ipynb) | Example of object detection in videos using deep learning. | <a href="https://colab.research.google.com/drive/10UiZw0L4k-Q2zSowSoiqcbjfLZIqozUK" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
 
 ---
 
