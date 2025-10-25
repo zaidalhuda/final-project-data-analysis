@@ -5,7 +5,6 @@
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-blue.svg">
   <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-Latest-red.svg"></a>
-  <a href="https://tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-Latest-orange.svg"></a>
   <img alt="Level" src="https://img.shields.io/badge/Level-Beginner_Friendly-brightgreen.svg">
   <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME">
     <img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
