@@ -74,7 +74,7 @@ Each category includes:
 | Notebook | Description | Open in Colab |
 |----------|-------------|----------------|
 | [Image Data Analysis Roadmap](notebooks/Image_Data_Analysis_Roadmap.ipynb) | Workflow for handling image datasets and models. | <a href="https://colab.research.google.com/drive/1f6ivc1j9dBoM3Keh-6dGLv_LxEl_fBAS" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
-| [Image Analysis Example: Image Classification](notebooks/Image_Analysis_Example(Image_Classification).ipynb) | Practical example of image classification with CNNs + Grad-CAM. | <a href="https://colab.research.google.com/drive/1Raps82nMYPtX6SqzA5pJ5r9Pw7UlAYNW" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
+| [Image Analysis Example: Image Classification](notebooks/Image_Analysis_Example(Image_Classification).ipynb) | Practical example of image classification with CNNs + Grad-CAM. | <a href="https://colab.research.google.com/drive/1CXdYYwrq0jW1YmqNI-dJst5tNAYEywDG" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
 
 ---
 
