@@ -81,8 +81,8 @@ Each category includes:
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|----------------|
-| [Video Data Analysis Roadmap](notebooks/Video_Data_Analysis_Roadmap.ipynb) | Workflow for preparing and analyzing video datasets. | <a href="https://colab.research.google.com/drive/1n-c2CdBoSvJJx-7ec0viwKlQPT_TRElZ" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
-| [Video Analysis Example: Object Detection](notebooks/Video_Data_Analysis_Example(Object_Detection).ipynb) | Example of object detection in videos using deep learning. | <a href="https://colab.research.google.com/drive/10UiZw0L4k-Q2zSowSoiqcbjfLZIqozUK" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
+| [Video Data Analysis Roadmap](notebooks/Video_Data_Analysis_Roadmap.ipynb) | Workflow for preparing and analyzing video datasets. | <a href="https://colab.research.google.com/drive/1BUmhzc-hhn6G1OMJJ6PP7eBuawuPMfYb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
+| [Video Analysis Example: Object Detection](notebooks/Video_Data_Analysis_Example(Object_Detection).ipynb) | Example of object detection in videos using deep learning. | <a href="https://colab.research.google.com/drive/1Xp1IsRxM8_wCD1Q9T2LUlgtLenw8ZbuK" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> |
 
 ---
 
