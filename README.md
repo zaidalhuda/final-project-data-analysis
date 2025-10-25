@@ -58,7 +58,7 @@ Each category includes:
 ### 📄 Slides / PDF
 
 > **Data Analysis for Final Projects (PDF)**  
-> - 📘 **View in repo**: [Data_Analysis_for_Final_Projects.pdf](docs/Data_Analysis_for_Final_Projects.pdf)  
+> - 📘 **View**: [Data_Analysis_for_Final_Projects.pdf](https://raw.githubusercontent.com/zaidalhuda/inal-project-data-analysis/docs/Data_Analysis_for_Final_Projects.pdf)  
 
 ---
 
