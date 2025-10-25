@@ -53,7 +53,13 @@ This repository provides **step-by-step roadmaps** and **ready-to-run example no
 
 Each category includes:
 - **A Roadmap Notebook** - explaining the general workflow and structure to follow.  
-- **An Example Notebook** - demonstrating real data analysis with detailed explanations, visualizations, and insights.  
+- **An Example Notebook** - demonstrating real data analysis with detailed explanations, visualizations, and insights.
+
+## 📄 Slides / PDF
+
+> **Data Analysis for Final Projects (PDF)**  
+> - 📘 **View in repo**: [docs/Data_Analysis_for_Final_Projects.pdf](docs/Data_Analysis_for_Final_Projects.pdf)  
+> - ⬇️ **Download (raw)**: [docs/Data_Analysis_for_Final_Projects.pdf?raw=1](docs/Data_Analysis_for_Final_Projects.pdf?raw=1)
 
 ---
 
